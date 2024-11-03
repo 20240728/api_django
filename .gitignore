@@ -162,4 +162,4 @@ cython_debug/
 #.idea/
 
 
-api_django/api_test.py
+api_test.py
